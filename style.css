@@ -104,6 +104,12 @@ nav .nav-links a.selected{
     border-radius: 140px;
 }
 
+.recent1{
+    padding: 60px 148px;
+    background-color: lightsteelblue;
+}
+
+
 .recent{
     padding: 60px 148px;
     background-color: #dbedf2;
@@ -604,4 +610,9 @@ footer p{
         height: auto;
     }
 
+}
+
+
+hr{
+    visibility: hidden;
 }
